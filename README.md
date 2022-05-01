@@ -6,12 +6,13 @@ Software Engineer
 
 I've been learning to code for the past couple of years. 
 Graphic design was my first love and now I want to challenge myself to learn more about the backend.
+My main goal is to join a team where I can continue learning and bring my skills to a tech company with global reach.
+
 
 * 🌍  I'm based in Dallas, Texas
 * 🖥️  See my portfolio at [noravgs](http://noravgs.netlify.app/)
 * 🧠  I'm learning JavaScript
-* ⚡  On my free time you can find me doing photoshoots 
-* with my nieces and nephews & drinking matcha.
+* ⚡  On my free time you can find me taking photos of my nieces and nephews & drinking matcha.
 
 <a href="https://www.twitter.com/noravgs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/noravgs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
