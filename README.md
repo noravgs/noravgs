@@ -11,7 +11,7 @@ My main goal is to join a team where I can continue learning and bring my skills
 
 * 🌍  I'm based in Dallas, Texas
 * 🖥️  See my portfolio at [noravgs](http://noravgs.netlify.app/)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm currently learning BackEnd.
 * ⚡  On my free time you can find me taking photos of my nieces and nephews & drinking matcha.
 
 <a href="https://www.twitter.com/noravgs" target="_blank" rel="noreferrer"><img
