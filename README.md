@@ -12,9 +12,6 @@ I've been learning to code for the past couple of years. Graphic design was my f
 * 🧠  I'm learning React & Tailwind CSS
 * ⚡  On my free time you can find me taking photos & drinking matcha
 
-<a href="https://www.github.com/noravgs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/noravgs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
