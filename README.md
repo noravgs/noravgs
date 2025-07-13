@@ -7,7 +7,7 @@ Software Engineer
 I've been learning to code for the past couple of years. Graphic design was my first love and now I want to challenge myself to learn more about the backend. My main goal is to join a team where I can continue learning and bring my skills to a tech company with global reach.
 
 * 🌍  I'm based in Dallas, TX
-* 🖥️  See my portfolio at [noravgs](http://noravgs.vercel.app/)
+* 🖥️  See my portfolio at [noravgs](https://noravgs.netlify.app/)
 * 🚀  I'm currently working on [AlgoArchive](https://github.com/AlgoArchiveExt/)
 * 🧠  I'm learning AI integration, NextUI, Python & TypeScript
 * ⚡ In my free time you can find me taking photos & drinking matcha
