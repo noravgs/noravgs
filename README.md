@@ -8,8 +8,7 @@ I've been learning to code for the past couple of years. Graphic design was my f
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [noravgs](https://noravgs.netlify.app/)
-* 🚀  I'm currently working on [AlgoArchive](https://github.com/AlgoArchiveExt/)
-* 🧠  I'm learning AI integration, NextUI, Python & TypeScript
+* 🧠  I'm learning AI integration, PHP, NextUI, Python & TypeScript
 * ⚡ In my free time you can find me taking photos & drinking matcha
 
 ### Skills
